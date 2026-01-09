@@ -85,8 +85,6 @@ python medical_cost_prediction.py
 ---
 
 ### 🔮 Future Improvements
-
-* Hyperparameter tuning using **GridSearchCV**
 * Model explainability using **SHAP**
 
 
